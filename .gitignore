@@ -59,9 +59,9 @@ node_modules/
 # Nuxt.js build output
 .nuxt
 
-# Gatsby files
-.cache/
-public
+# # Gatsby files
+# .cache/
+# public
 
 # vuepress build output
 .vuepress/dist
